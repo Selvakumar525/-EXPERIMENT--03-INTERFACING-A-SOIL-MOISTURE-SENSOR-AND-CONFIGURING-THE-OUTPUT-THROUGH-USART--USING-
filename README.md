@@ -233,8 +233,14 @@ static void MX_GPIO_Init(void)
 
 
 ## Output screen shots of Serial port utility   :
- 
- 
+ ## Default setup:
+ ![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/e55905bd-735b-4728-b696-4753cfb464ee)
+## setup while sensing:
+
+## Real port utility:
+## Partially Dipped:
+## Half Dipped:
+## Completely Dipped: 
  
  
 ## Result :
