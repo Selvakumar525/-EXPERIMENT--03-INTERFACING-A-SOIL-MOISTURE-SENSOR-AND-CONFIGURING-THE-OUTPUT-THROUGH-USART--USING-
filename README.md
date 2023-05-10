@@ -236,10 +236,17 @@ static void MX_GPIO_Init(void)
  ## Default setup:
  ![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/e55905bd-735b-4728-b696-4753cfb464ee)
 ## setup while sensing:
+![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/8f8f1c60-1acb-48ee-bc16-4a1e9c9cee90)
 
-## Real port utility:
+## Serial port utility:
+![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/17ba0118-e690-4fa5-a20d-c3fba173aa16)
+
 ## Partially Dipped:
+![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/86d61b72-d9de-47e7-b145-86e710add927)
+
 ## Half Dipped:
+
+
 ## Completely Dipped: 
  
  
