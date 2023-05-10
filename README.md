@@ -245,10 +245,12 @@ static void MX_GPIO_Init(void)
 ![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/86d61b72-d9de-47e7-b145-86e710add927)
 
 ## Half Dipped:
+![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/4992070d-5873-4619-b1ef-15ea460874d8)
 
 
 ## Completely Dipped: 
- 
+ ![image](https://github.com/Selvakumar525/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120643262/5758ae44-ec0c-4cca-8ec9-b377c0f006d1)
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
